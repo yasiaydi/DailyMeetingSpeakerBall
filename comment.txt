@@ -1,0 +1,4 @@
+	<button id = "button" onclick = "GFG_Fun()"  > 
+		click here 
+	</button> 
+	<input type="text" id="names" name="names">
